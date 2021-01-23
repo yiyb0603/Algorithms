@@ -1,3 +1,5 @@
+package 수박수박수박수;
+
 class Solution {
   public String solution(int n) {
     String word = "수";

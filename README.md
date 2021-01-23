@@ -1,2 +1,2 @@
 # Algorithms
-📘 Algorithm Questions Solving Repository
+📘 Programmers Algorithm Questions Solving Repository
